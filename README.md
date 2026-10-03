@@ -18,11 +18,11 @@ To download through GitHub, open the file from the list above this README and cl
 
 | File | What it gives you |
 |---|---|
-| `strudel-complete-reference.html` | A reference you can open in a browser, with search, filters, copy buttons, and sample filenames. It works offline after you download it. |
-| `strudel-complete-reference.pdf` | A 226-page reference for reading, printing, and keeping beside your music code. |
+| `strudel-complete-reference.html` | A reference you can open in a browser, with search, filters, copy buttons, sample filenames, and glossary pop-ups. It works offline after you download it. |
+| `strudel-complete-reference.pdf` | A 261-page reference for reading, printing, and keeping beside your music code. |
 | `SHA256SUMS.txt` | File fingerprints called checksums, for checking that the two reference files downloaded unchanged. |
 
-The reference includes **576 command and command-family entries**, **1,654 default sound names**, and **218 optional sound collections**. Together, the default and optional lists contain **1,852 distinct names**. Some names appear in both lists.
+The reference includes **576 command and command-family entries**, **356 glossary terms**, **1,654 default sound names**, and **218 optional sound collections**. Together, the default and optional lists contain **1,852 distinct names**. Some names appear in both lists.
 
 ## Learn one small thing at a time
 
@@ -31,6 +31,12 @@ The reference includes **576 command and command-family entries**, **1,654 defau
 - **Advanced:** Explore sound design, unusual tunings, stepwise patterns, visual tools, controllers, other sound engines, and custom tools.
 
 In the HTML, click **Beginner**, **Intermediate**, or **Advanced** in the **Jump to** bar to go straight to that level’s first lesson. The **Read** buttons do the same. In the PDF, click a level on the cover, or use **Quick jumps** on the contents page to open its learning guide or command index.
+
+Click a **dotted-underlined word** in an HTML explanation to open a small definition pop-up. Your page stays in place. Close it, or press **Escape**, to keep reading. Choose **Open full glossary** to see its full entry; **Back to where I was** restores your reading place, search, and filters. The pop-ups work offline. Code examples stay plain so you can copy them.
+
+In the PDF, **underlined words** jump to their glossary definitions. Use your PDF viewer’s **Back** or **Previous view** button to return, if it has one. The PDF uses links; pop-up definitions are available in the HTML. Both files explain this near the top.
+
+The alphabetic glossary explains music, patterns, sound design, controls, coding, and setup in simple language. Entries include learning levels, useful alternative names, and sources.
 
 Choose **Learning guide** to start. Use **Commands** to find a function, **Sounds** to find a sound name or sample filename, and **Word meanings** when a term is unfamiliar.
 
