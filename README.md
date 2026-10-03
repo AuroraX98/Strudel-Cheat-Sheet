@@ -30,7 +30,9 @@ The reference includes **576 command and command-family entries**, **1,654 defau
 - **Intermediate:** Combine patterns, make song sections, use scales, load recordings, and add changing settings.
 - **Advanced:** Explore sound design, unusual tunings, stepwise patterns, visual tools, controllers, other sound engines, and custom tools.
 
-In the HTML, choose **Learning guide** to start. Use **Commands** to find a function, **Sounds** to find a sound name or sample filename, and **Word meanings** when a term is unfamiliar.
+In the HTML, click **Beginner**, **Intermediate**, or **Advanced** in the **Jump to** bar to go straight to that level’s first lesson. The **Read** buttons do the same. In the PDF, click a level on the cover, or use **Quick jumps** on the contents page to open its learning guide or command index.
+
+Choose **Learning guide** to start. Use **Commands** to find a function, **Sounds** to find a sound name or sample filename, and **Word meanings** when a term is unfamiliar.
 
 To hear an example, copy it into [strudel.cc](https://strudel.cc/), press **Play**, then press **Update** after a change. Examples using extra samples, hardware, or other tools explain the setup they need. The HTML reference itself does not play music. Its search and copy tools work without the internet; online source links need a connection.
 
