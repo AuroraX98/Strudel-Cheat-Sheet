@@ -1,0 +1,2 @@
+90975f39cfb38ca403b0c468c0616253c60f9c906995c12989a8410feb6eb6e4  strudel-complete-reference.pdf
+cb67d009596f52abc6689f5cc9483d8ecb765931aae9a3a7df31f8fe0da8f6c9  strudel-complete-reference.html
